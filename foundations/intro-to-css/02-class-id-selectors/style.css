@@ -1,0 +1,22 @@
+.odd-number {
+    background-color: rgb(223, 139, 139);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#div-one {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#div-two {
+    background-color: rgb(113, 250, 120);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+    /* I did not think of using the same class for Number 3 and Number 4. */
+
